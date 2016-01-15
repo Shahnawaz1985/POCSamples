@@ -6,7 +6,7 @@ import cucumber.api.java.en.Given;
 
 public class CustomCucumberStep {
 	
-	RideBean rideBean;
+	RideBean rideBean = null;
 	
 	@Given("^employee enter FirstName as \"([^\"]*)\", lastName as \"([^\"]*)\"$")
 	public void employee_enter_FirstName_as_lastName_as(String arg1, String arg2) throws Throwable {
