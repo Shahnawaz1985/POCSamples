@@ -9,7 +9,7 @@ import com.bt.sample.PoolThreads;
 
 public class CustomThreadPool {
 	
-	private BlockingQueue<?> taskQueue = null;
+	private BlockingQueue taskQueue = null;
     private List<PoolThreads> threads = new ArrayList<PoolThreads>();
     private boolean isStopped = false;
     
