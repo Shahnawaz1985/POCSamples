@@ -1,5 +1,9 @@
 package com.bac.dp.composite;
-
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class Substracter extends  BinaryExpression {
 	
 	public Substracter(Expression left, Expression right){

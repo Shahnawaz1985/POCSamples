@@ -1,5 +1,10 @@
 package com.bac.dp.proxy;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class BusinessObjectImplementation extends BusinessObject {
 	
 	/* (non-Javadoc)

@@ -1,5 +1,10 @@
 package com.bac.dp.adapter;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class LoggerImplementation extends Logger {
 
 	@Override

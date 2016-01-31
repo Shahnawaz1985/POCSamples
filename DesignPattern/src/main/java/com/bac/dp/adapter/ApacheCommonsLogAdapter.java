@@ -3,6 +3,11 @@ package com.bac.dp.adapter;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.impl.Log4JLogger;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class ApacheCommonsLogAdapter extends Logger{
 	
 	private Log logger  = new Log4JLogger();

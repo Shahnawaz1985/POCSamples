@@ -1,5 +1,10 @@
 package com.bac.dp.adapter;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 abstract public class Logger {
 	
 	abstract public void log(String msg);

@@ -2,6 +2,11 @@ package com.bac.dp.utility;
 
 import com.bac.dp.adapter.Logger;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class AdapterClient {
 	
 	public static void main(String[] args) {

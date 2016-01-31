@@ -1,5 +1,10 @@
 package com.bac.dp.composite;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class Constant implements Expression {
 	
 	private double testValue;

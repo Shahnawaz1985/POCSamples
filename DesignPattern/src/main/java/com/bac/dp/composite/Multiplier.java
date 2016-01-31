@@ -1,5 +1,10 @@
 package com.bac.dp.composite;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class Multiplier extends BinaryExpression {
 	
 	public Multiplier(Expression left, Expression right){

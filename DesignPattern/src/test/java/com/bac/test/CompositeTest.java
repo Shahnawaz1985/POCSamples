@@ -11,7 +11,11 @@ import com.bac.dp.composite.Expression;
 import com.bac.dp.composite.Multiplier;
 import com.bac.dp.composite.Substracter;
 
-
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class CompositeTest {
 	
 	@Test

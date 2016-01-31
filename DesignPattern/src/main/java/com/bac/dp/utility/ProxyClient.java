@@ -1,5 +1,8 @@
 package com.bac.dp.utility;
 
+/**
+ * 
+ */
 import com.bac.dp.proxy.BusinessObject;
 
 public class ProxyClient {

@@ -1,5 +1,10 @@
 package com.bac.dp.composite;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 abstract public class BinaryExpression implements Expression {
 	
 	protected Expression left;

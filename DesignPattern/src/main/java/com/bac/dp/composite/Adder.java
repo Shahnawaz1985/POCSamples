@@ -1,5 +1,10 @@
 package com.bac.dp.composite;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class Adder extends BinaryExpression {
 	
 	public Adder(Expression left, Expression right){
