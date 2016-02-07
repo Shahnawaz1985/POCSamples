@@ -1,5 +1,10 @@
 package com.bac.dp.decorator;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class BorderDecorator extends Decorator {
 
 	public BorderDecorator(GraphicalComponent target) {

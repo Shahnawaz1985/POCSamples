@@ -1,5 +1,10 @@
 package com.bac.dp.decorator;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class DecoratorClient {
 	
 	public static void main(String[] args) {

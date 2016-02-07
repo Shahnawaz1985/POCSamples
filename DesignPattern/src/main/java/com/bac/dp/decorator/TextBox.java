@@ -3,6 +3,11 @@ package com.bac.dp.decorator;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class TextBox implements GraphicalComponent {
 	
 	private List<String> lines = new LinkedList<String>();

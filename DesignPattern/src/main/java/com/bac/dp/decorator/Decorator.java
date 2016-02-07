@@ -1,5 +1,10 @@
 package com.bac.dp.decorator;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public abstract class Decorator implements GraphicalComponent {
 	
 	private GraphicalComponent target;

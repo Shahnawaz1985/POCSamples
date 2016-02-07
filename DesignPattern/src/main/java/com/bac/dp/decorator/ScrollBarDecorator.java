@@ -1,5 +1,10 @@
 package com.bac.dp.decorator;
 
+/**
+ * 
+ * @author Shahnawaz
+ *
+ */
 public class ScrollBarDecorator extends Decorator {
 
 	public ScrollBarDecorator(GraphicalComponent target) {
